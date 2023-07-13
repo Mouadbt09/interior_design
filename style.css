@@ -180,6 +180,11 @@ nav span{
 .mobile_hero_content{
     display: none;
 }
+.mobile_h1{
+    display: none;
+    color: white;
+    text-shadow: 1px 1px 8px black;
+}
 
 .offer1{
     width: 100%;
