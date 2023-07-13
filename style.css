@@ -68,6 +68,8 @@ header{
     cursor: pointer;
     width: fit-content;
     margin-left: auto;
+    display: flex;
+    align-items: center;
 }
 .shown{
     display: grid;
